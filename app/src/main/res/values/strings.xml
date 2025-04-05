@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="select_book">Оберіть книгу</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Скасувати</string>
+    <string name="open">Відкрити</string>
+    <string name="delete">Видалити</string>
+    <string name="save_success">Дані успішно збережено</string>
+    <string name="delete_success">Дані успішно видалено</string>
+    <string name="saved_data_title">Збережені Дані</string>
+    <string name="no_data_found">Сховище пусте</string>
+    <string name="validation_incomplete_title">Незавершені дані</string>
+    <string name="validation_incomplete_message">Будь ласка, введіть наступні дані:\n</string>
+    <string name="validation_select_book">- Оберіть книгу\n</string>
+    <string name="validation_select_year">- Оберіть рік видання</string>
+    <string name="selected_option_prefix">Вибраний варіант:\nКнига: </string>
+    <string name="year_prefix">\nРік видання: </string>
+    <string name="default_book_option">----</string>
+    <string name="delete_all">Видалити все</string>
+</resources>
